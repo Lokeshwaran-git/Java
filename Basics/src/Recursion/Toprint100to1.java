@@ -2,6 +2,7 @@ package Recursion;
 
 public class Toprint100to1 {
 	void m(int i) {
+		
 		System.out.println(i);
 		i++;
 		if (i <=100) {
